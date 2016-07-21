@@ -1,0 +1,246 @@
+"Make","Model","Type","BaseMSRP","CityMPG","HwyMPG","Country","Seating","CurbWeight","Reliability","Satisfaction","OwnerCost5Years"
+"Acura","MDX","SUV",42930,16,21,"Japan",7,4595,2,2,5
+"Acura","RDX","SUV",32895,19,24,"Japan",5,4015,1,3,4
+"Acura","RL","Sedan",47200,17,24,"Japan",5,4085,1,3,5
+"Acura","TL","Sedan",35605,20,29,"Japan",5,3705,1,2,3
+"Acura","TSX","Sedan",29610,22,31,"Japan",5,3440,3,2,2
+"Acura","ZDX","SUV",46020,16,23,"Japan",5,4410,".",".",4
+"Audi","A3","Diesel Wagon",30250,30,42,"Germany",5,3318,".",".","."
+"Audi","A3","Wagon",27270,21,30,"Germany",5,3305,4,".",2
+"Audi","A4","Sedan",32500,22,30,"Germany",5,3715,3,2,4
+"Audi","A4","Wagon",36400,21,29,"Germany",5,3527,3,2,4
+"Audi","A5","Convertible",42450,22,30,"Germany",4,4050,".",1,5
+"Audi","A6","Sedan",41700,25,33,"Germany",5,4110,5,2,5
+"Audi","A6","Wagon",53310,18,26,"Germany",5,4255,5,2,5
+"Audi","A8","Sedan",78750,18,28,"Germany",5,4410,".",".",5
+"Audi","Q5","SUV",35200,20,27,"Germany",5,4320,4,1,4
+"Audi","Q7","SUV",46250,".",".","Germany",7,5260,4,".",5
+"Audi","TT","Convertible",41300,23,31,"Germany",4,3219,4,".",4
+"Audi","TT","Hatchback",38300,22,31,"Germany",4,2965,4,".",4
+"BMW","1 Series","Convertible",36600,18,28,"Germany",4,3360,5,2,4
+"BMW","3 Series","Convertible",46450,17,26,"Germany",5,3900,3,2,4
+"BMW","3 Series","Sedan",34600,18,28,"Germany",5,3485,3,2,4
+"BMW","3 Series","Wagon",37150,17,26,"Germany",5,3527,3,2,4
+"BMW","5 Series","Sedan",45050,22,32,"Germany",5,4035,".",2,5
+"BMW","7 Series","Sedan",71000,17,25,"Germany",5,4600,3,2,5
+"BMW","X3","SUV",36750,19,25,"Germany",5,4220,".",3,4
+"BMW","X5","SUV",47200,16,23,"Germany",7,5265,5,1,5
+"BMW","X6","SUV",58900,16,23,"Germany",4,4895,".",".",5
+"BMW","Z4","Convertible",47450,18,28,"Germany",2,3520,".",".",4
+"Buick","Enclave","SUV",36600,17,24,"USA",8,5100,3,2,4
+"Buick","LaCrosse","Sedan",29960,25,36,"USA",5,4160,3,1,4
+"Buick","Lucerne","Sedan",29730,17,27,"USA",6,4095,3,3,4
+"Buick","Regal","Sedan",34450,19,27,"USA",5,3685,".",".",2
+"Cadillac","CTS","Sedan",35345,16,26,"USA",5,4200,4,2,5
+"Cadillac","CTS","Wagon",38465,18,27,"USA",5,4040,4,2,5
+"Cadillac","DTS","Sedan",46680,15,23,"USA",6,4085,3,2,5
+"Cadillac","Escalade","Hybrid SUV",74135,20,23,"USA",8,6120,".",".","."
+"Cadillac","Escalade","SUV",63455,14,18,"USA",8,5810,4,".",5
+"Chevrolet","Aveo","Hatchback",12115,27,35,"USA",5,2568,5,5,1
+"Chevrolet","Aveo","Sedan",11965,27,35,"USA",5,2560,5,5,1
+"Chevrolet","Camaro","Convertible",30100,17,28,"USA",4,3900,2,1,2
+"Chevrolet","Corvette","Convertible",54525,16,26,"USA",2,3280,3,1,5
+"Chevrolet","Cruze","Sedan",16720,26,36,"USA",5,3130,".",".",1
+"Chevrolet","Equinox","SUV",23450,22,32,"USA",5,4185,3,2,2
+"Chevrolet","HHR","Wagon",18720,22,32,"USA",5,3155,3,3,2
+"Chevrolet","Malibu","Sedan",21995,22,33,"USA",5,3355,3,3,2
+"Chevrolet","Suburban","SUV",41335,15,21,"USA",9,5935,3,2,5
+"Chevrolet","Tahoe","Hybrid SUV",51145,20,23,"USA",9,5688,5,".",5
+"Chevrolet","Tahoe","SUV",37980,15,21,"USA",9,5688,3,2,5
+"Chevrolet","Traverse","SUV",29430,17,24,"USA",8,4975,3,2,4
+"Chevrolet","Volt","Electric Hatchback",39145,95,90,"USA",4,3750,".",".","."
+"Chrysler",200,"Convertible",26575,18,29,"USA",5,3820,".",".",2
+"Chrysler",200,"Sedan",18995,21,30,"USA",5,3335,".",".",2
+"Chrysler",300,"Sedan",27170,18,27,"USA",5,4105,".",2,4
+"Chrysler","Town and Country","Minivan",29995,17,25,"USA",7,4755,".",3,4
+"Dodge","Avenger","Sedan",19245,20,31,"USA",5,3550,".",5,2
+"Dodge","Caliber","Wagon",17380,24,32,"USA",5,3185,3,".",2
+"Dodge","Charger","Sedan",25495,18,27,"USA",5,3895,".",4,3
+"Dodge","Durango","SUV",29195,16,23,"USA",7,5535,".",".",4
+"Dodge","Grand Caravan","Minivan",22995,17,25,"USA",7,4600,".",4,4
+"Dodge","Journey","SUV",22245,19,25,"USA",7,4290,".",".",3
+"Dodge","Nitro","SUV",22245,16,22,"USA",5,4340,4,".",3
+"Ford","Edge","SUV",27640,19,26,"USA",5,4385,".",2,4
+"Ford","Escape","Hybrid SUV",30570,34,31,"USA",5,3920,2,2,2
+"Ford","Escape","SUV",21240,23,28,"USA",5,3640,3,3,2
+"Ford","Expedition","SUV",36205,14,20,"USA",9,6325,3,2,5
+"Ford","Explorer","SUV",28170,17,25,"USA",7,4780,".",".","."
+"Ford","Fiesta","Hatchback",15500,29,37,"USA",5,2575,".",".",1
+"Ford","Fiesta","Sedan",13200,29,37,"USA",5,2628,".",".",1
+"Ford","Flex","Wagon",29355,17,24,"USA",7,4805,3,1,4
+"Ford","Focus","Sedan",16500,26,36,"USA",5,2715,".",".","."
+"Ford","Fusion","Hybrid Sedan",28600,41,36,"USA",5,3720,1,1,2
+"Ford","Fusion","Sedan",19850,22,32,"USA",5,3365,2,2,1
+"Ford","Mustang","Convertible",27145,18,29,"USA",4,3935,2,1,4
+"Ford","Taurus","Sedan",25555,18,28,"USA",5,4040,2,2,3
+"Honda","Accord","Sedan",21380,23,33,"Japan",5,3285,3,2,1
+"Honda","Accord Crosstour","Hatchback",29990,18,27,"Japan",5,4030,2,2,3
+"Honda","CR-V","SUV",21895,21,28,"Japan",5,3520,1,2,2
+"Honda","CR-Z","Hatchback",19345,31,37,"Japan",2,2635,".",".",1
+"Honda","Civic","Hybrid Sedan",23950,40,43,"Japan",5,2877,".",".","."
+"Honda","Civic","Sedan",15805,26,34,"Japan",5,2810,1,2,1
+"Honda","Element","SUV",20825,20,25,"Japan",4,3650,3,3,2
+"Honda","Fit","Hatchback",15100,27,33,"Japan",5,2450,1,2,1
+"Honda","Insight","Hatchback",18200,40,43,"Japan",5,2725,1,3,1
+"Honda","Odyssey","Minivan",28075,18,27,"Japan",8,4500,".",2,4
+"Honda","Pilot","SUV",28320,17,23,"Japan",8,4510,2,2,3
+"Hyundai","Accent","Hatchback",9985,28,34,"Korea",5,2467,3,4,1
+"Hyundai","Accent","Sedan",13695,28,34,"Korea",5,2590,3,4,1
+"Hyundai","Azera","Sedan",25495,20,28,"Korea",5,3770,3,2,3
+"Hyundai","Elantra","Sedan",14945,29,40,"Korea",5,2770,2,2,1
+"Hyundai","Elantra Touring","Hatchback",15995,23,31,"Korea",5,3060,2,3,1
+"Hyundai","Equus","Sedan",58000,16,24,"Korea",5,4585,".",".","."
+"Hyundai","Genesis","Sedan",22250,21,30,"Korea",5,3860,2,1,4
+"Hyundai","Santa Fe","SUV",21845,19,26,"Korea",5,4070,2,2,3
+"Hyundai","Sonata","Sedan",19695,24,35,"Korea",5,3210,2,2,1
+"Hyundai","Tucson","SUV",19045,20,27,"Korea",5,3355,3,2,2
+"Hyundai","Veracruz","SUV",28345,17,22,"Korea",7,4610,3,3,4
+"Infiniti","EX","SUV",35200,17,24,"Japan",5,4015,2,3,4
+"Infiniti","FX","SUV",42600,16,23,"Japan",5,4225,3,2,5
+"Infiniti","G","Convertible",45750,17,25,"Japan",5,4120,2,2,3
+"Infiniti","G","Sedan",32000,20,29,"Japan",5,3645,2,2,3
+"Infiniti","M37","Sedan",47050,18,26,"Japan",5,3895,2,2,5
+"Infiniti","QX56","SUV",58700,14,20,"Japan",8,5990,".",3,5
+"Jeep","Compass","SUV",19295,23,29,"USA",5,3380,3,".",2
+"Jeep","Grand Cherokee","SUV",26995,17,23,"USA",5,4930,".",3,4
+"Jeep","Liberty","SUV",23360,16,22,"USA",5,4220,4,4,2
+"Jeep","Patriot","SUV",15995,23,29,"USA",5,3370,3,4,2
+"Jeep","Wrangler","SUV",22045,15,19,"USA",5,4550,4,2,3
+"Kia","Forte","Hatchback",16895,25,34,"Korea",5,2729,3,3,1
+"Kia","Forte","Sedan",14995,25,34,"Korea",5,2875,3,3,1
+"Kia","Optima","Sedan",18995,24,35,"Korea",5,3260,".",3,1
+"Kia","Rio","Sedan",12295,28,34,"Korea",5,2615,".",".",1
+"Kia","Rio","Wagon",15095,27,36,"Korea",5,2487,".",".",1
+"Kia","Sedona","Minivan",24595,18,25,"Korea",7,4550,4,".",4
+"Kia","Sorento","SUV",21250,20,27,"Korea",7,3845,3,1,3
+"Kia","Soul","Wagon",13300,26,31,"Korea",5,2950,3,2,1
+"Kia","Sportage","SUV",18500,21,29,"Korea",5,3375,".",".",2
+"Land Rover","LR2","SUV",35700,15,22,"Great Britain",5,4325,3,".",4
+"Land Rover","LR4","SUV",47650,12,17,"Great Britain",7,5710,".",".",5
+"Land Rover","Range Rover","SUV",78835,12,18,"Great Britain",5,5670,".",".",5
+"Land Rover","Range Rover Sport","SUV",59645,13,18,"Great Britain",5,5500,".",".",5
+"Lexus","CT 200","Hybrid Hatchback",29120,43,40,"Japan",5,3130,".",".",2
+"Lexus","ES 350","Sedan",36725,19,27,"Japan",5,3670,1,2,3
+"Lexus","GS 460","Sedan",55370,17,24,"Japan",5,4205,".",".",5
+"Lexus","GX 460","SUV",53045,15,20,"Japan",7,5170,3,3,5
+"Lexus","HS 250","Hybrid Sedan",36330,35,34,"Japan",5,3705,3,3,4
+"Lexus","IS 250","Convertible",41190,19,27,"Japan",5,3845,4,2,4
+"Lexus","IS 250","Sedan",33295,19,27,"Japan",5,3510,1,3,3
+"Lexus","IS 350","Sedan",39720,20,27,"Japan",5,3527,4,2,4
+"Lexus","LS 460","Sedan",67130,16,24,"Japan",5,4515,2,1,5
+"Lexus","LX 570","SUV",79455,12,18,"Japan",8,5995,1,2,5
+"Lexus","RX 350","SUV",39075,18,25,"Japan",5,4455,2,2,4
+"Lexus","RX 450","Hybrid SUV",44735,32,28,"Japan",5,4870,3,2,5
+"Lincoln","MKS","Sedan",41500,17,24,"USA",5,4515,".",2,5
+"Lincoln","MKT","SUV",44300,17,23,"USA",7,4980,2,1,5
+"Lincoln","MKX","SUV",39415,19,26,"USA",5,4525,".",3,5
+"Lincoln","MKZ","Hybrid Sedan",34645,41,36,"USA",5,3640,2,2,4
+"Lincoln","Navigator","SUV",57630,14,20,"USA",8,6245,2,1,5
+"Lincoln","Town Car","Sedan",47225,16,24,"USA",".",".",".",".","."
+"Lotus","Elise","Convertible",51845,21,27,"Great Britain",2,2000,".",".",5
+"MINI","Cooper","Convertible",24850,28,35,"Great Britain",4,2830,5,2,2
+"MINI","Cooper","Hatchback",19400,29,37,"Great Britain",4,2535,3,2,1
+"Mazda","CX-7","SUV",21990,20,28,"Japan",5,4025,3,".",3
+"Mazda","CX-9","SUV",29135,17,24,"Japan",7,4845,2,3,4
+"Mazda","MAZDA2","Hatchback",14180,29,35,"Japan",5,2390,".",".",1
+"Mazda","MAZDA3","Hatchback",20045,20,28,"Japan",5,2915,2,3,1
+"Mazda","MAZDA3","Sedan",15800,25,33,"Japan",5,2900,2,3,1
+"Mazda","MAZDA6","Sedan",20240,21,30,"Japan",5,3185,3,3,2
+"Mazda","Miata","Convertible",23190,22,28,"Japan",2,2610,1,1,2
+"Mazda","Tribute","SUV",20555,23,28,"Japan",5,3640,3,".",2
+"Mercedes-Benz","CLS-Class","Sedan",71300,16,24,"Germany",4,4060,".",".",5
+"Mercedes-Benz","E-Class","Convertible",57720,18,26,"Germany",5,4150,2,2,5
+"Mercedes-Benz","E-Class","Diesel Sedan",51690,22,33,"Germany",5,4273,".",".","."
+"Mercedes-Benz","E-Class","Sedan",50490,18,25,"Germany",5,4020,2,2,5
+"Mercedes-Benz","E-Class","Wagon",57150,17,24,"Germany",5,4213,".",".","."
+"Mercedes-Benz","GL-Class","SUV",60950,17,21,"Germany",7,5655,5,".",5
+"Mercedes-Benz","GLK-Class","SUV",35500,16,23,"Germany",5,4180,5,2,4
+"Mercedes-Benz","M-Class","SUV",46490,16,20,"Germany",5,4845,3,3,5
+"Mercedes-Benz","R-Class","Wagon",50240,15,19,"Germany",7,5120,5,".",5
+"Mercedes-Benz","S-Class","Sedan",91000,19,25,"Germany",5,4490,2,1,5
+"Mercedes-Benz","SLK-Class","Convertible",47650,17,26,"Germany",2,3315,".",".",5
+"Mitsubishi","Eclipse","Hatchback",18999,20,28,"Japan",4,3345,".",".",4
+"Mitsubishi","Endeavor","SUV",28299,15,21,"Japan",5,4195,".",".",4
+"Mitsubishi","Galant","Sedan",21899,21,30,"Japan",5,3430,".",".",2
+"Mitsubishi","Lancer","Sedan",15295,24,33,"Japan",5,3015,".",".",1
+"Mitsubishi","Lancer Evolution","Sedan",34095,17,23,"Japan",5,3517,".",".",5
+"Mitsubishi","Lancer Sportback","Hatchback",17095,24,32,"Japan",5,3054,".",".","."
+"Mitsubishi","Outlander","SUV",21995,23,28,"Japan",5,3505,1,".",2
+"Mitsubishi","Outlander Sport","SUV",18495,24,31,"Japan",5,3290,".",".",2
+"Nissan","370Z","Convertible",38200,18,25,"Japan",2,3385,5,2,4
+"Nissan","Altima","Hybrid Sedan",26800,33,33,"Japan",5,3470,2,3,2
+"Nissan","Altima","Sedan",20410,23,32,"Japan",5,3155,2,3,2
+"Nissan","Armada","SUV",38490,13,19,"Japan",8,5715,3,2,5
+"Nissan","Cube","Wagon",14740,25,30,"Japan",5,2855,4,2,1
+"Nissan","Juke","SUV",19570,27,32,"Japan",5,3170,".",".",2
+"Nissan","Leaf","Electric Hatchback",35200,106,92,"Japan",5,3375,".",".","."
+"Nissan","Maxima","Sedan",31750,19,26,"Japan",5,3555,3,3,3
+"Nissan","Murano","SUV",29290,18,23,"Japan",5,4190,2,2,3
+"Nissan","Pathfinder","SUV",28570,15,22,"Japan",7,4875,2,4,4
+"Nissan","Quest","Minivan",27750,19,24,"Japan",7,4480,".",".",4
+"Nissan","Rogue","SUV",21460,22,28,"Japan",5,3535,2,4,2
+"Nissan","Sentra","Sedan",16060,24,31,"Japan",5,2965,2,4,1
+"Nissan","Versa","Hatchback",14380,26,31,"Japan",5,2694,3,4,1
+"Nissan","Versa","Sedan",9990,26,34,"Japan",5,2805,3,4,1
+"Nissan","Xterra","SUV",24260,16,22,"Japan",5,4480,3,3,3
+"Porsche",911,"Convertible",91300,18,26,"Germany",4,3305,3,1,5
+"Porsche","Boxster","Convertible",65200,19,26,"Germany",2,3015,1,1,5
+"Porsche","Cayenne","Hybrid SUV",69000,20,24,"Germany",5,4938,".",".","."
+"Porsche","Cayenne","SUV",48200,15,22,"Germany",5,4795,".",2,5
+"Porsche","Panamera","Sedan",75200,18,27,"Germany",4,4430,".",".",5
+"Saab","9-3","Convertible",39990,20,29,"Sweden",5,3595,".",".",4
+"Saab","9-3","Sedan",28900,21,31,"Sweden",5,3370,2,3,3
+"Saab","9-4X","SUV",33380,18,25,"Sweden",5,4650,".",".",4
+"Scion","tC","Hatchback",18275,23,31,"Japan",5,3095,".",3,1
+"Scion","xB","Wagon",16300,22,28,"Japan",5,3120,1,3,1
+"Scion","xD","Hatchback",15110,27,33,"Japan",5,2645,1,3,1
+"Subaru","Forester","SUV",20495,21,27,"Japan",5,3235,1,2,1
+"Subaru","Impreza","Hatchback",17995,20,27,"Japan",5,3373,2,2,1
+"Subaru","Impreza","Sedan",17495,20,27,"Japan",5,3075,2,2,1
+"Subaru","Legacy","Sedan",19995,19,27,"Japan",5,3390,1,2,2
+"Subaru","Outback","Wagon",23195,19,27,"Japan",5,3795,2,1,2
+"Subaru","Tribeca","SUV",30495,16,21,"Japan",7,4280,3,3,3
+"Suzuki","Grand Vitara","SUV",19299,19,26,"Japan",5,3655,".",".",2
+"Suzuki","Kizashi","Sedan",18999,21,31,"Japan",5,3330,".",".",2
+"Suzuki","SX4","Hatchback",16599,22,30,"Japan",5,2866,2,3,2
+"Suzuki","SX4","Sedan",13499,23,33,"Japan",5,2990,2,3,2
+"Toyota","4Runner","SUV",30305,17,23,"Japan",7,4665,3,2,3
+"Toyota","Avalon","Sedan",32595,20,29,"Japan",5,3615,3,2,3
+"Toyota","Camry","Hybrid Sedan",27050,31,35,"Japan",5,3680,2,2,1
+"Toyota","Camry","Sedan",20195,22,33,"Japan",5,3335,2,3,1
+"Toyota","Corolla","Sedan",15900,28,35,"Japan",5,2850,2,4,1
+"Toyota","FJ Cruiser","SUV",25790,17,22,"Japan",5,4350,1,2,3
+"Toyota","Highlander","Hybrid SUV",38140,28,28,"Japan",7,4641,2,3,4
+"Toyota","Highlander","SUV",28090,20,25,"Japan",7,4490,2,3,4
+"Toyota","Land Cruiser","SUV",68920,13,18,"Japan",8,5855,".",".",5
+"Toyota","Matrix","Hatchback",18845,26,32,"Japan",5,3000,2,5,1
+"Toyota","Prius","Hybrid Hatchback",22120,51,48,"Japan",5,3115,3,2,1
+"Toyota","RAV4","SUV",22475,22,28,"Japan",7,3590,1,3,1
+"Toyota","Sequoia","SUV",40030,14,20,"Japan",8,6025,2,2,5
+"Toyota","Sienna","Minivan",25060,19,24,"Japan",8,4445,1,2,3
+"Toyota","Venza","Wagon",27125,21,27,"Japan",5,4125,2,3,3
+"Toyota","Yaris","Hatchback",13155,29,36,"Japan",5,2311,1,3,1
+"Toyota","Yaris","Sedan",13715,29,36,"Japan",5,2405,1,4,1
+"Volkswagen","CC","Sedan",28515,21,31,"Germany",4,3370,3,2,3
+"Volkswagen","Eos","Convertible",33995,22,30,"Germany",4,3580,4,3,3
+"Volkswagen","GTI","Hatchback",23695,21,31,"Germany",5,3175,3,1,2
+"Volkswagen","Golf","Diesel Hatchback",23225,30,42,"Germany",5,3045,2,1,1
+"Volkswagen","Golf","Hatchback",17995,23,33,"Germany",5,2968,1,2,1
+"Volkswagen","Jetta","Diesel Sedan",23965,30,42,"Germany",5,3200,".",".","."
+"Volkswagen","Jetta","Sedan",15365,24,34,"Germany",5,3090,".",3,1
+"Volkswagen","Routan","Minivan",26930,17,25,"Germany",7,4630,".",".","."
+"Volkswagen","Touareg","Diesel SUV",47950,19,28,"Germany",5,6305,".",".","."
+"Volkswagen","Touareg","Hybrid SUV",60565,20,24,"Germany",5,5135,".",".","."
+"Volkswagen","Touareg","SUV",44450,16,23,"Germany",5,5060,".",".","."
+"Volvo","C30","Hatchback",24700,21,29,"Sweden",4,3175,2,2,2
+"Volvo","C70","Convertible",39950,18,28,"Sweden",4,3820,2,3,4
+"Volvo","S40","Sedan",27750,21,30,"Sweden",5,3245,".",".",3
+"Volvo","S60","Sedan",37700,18,26,"Sweden",5,3815,".",".",3
+"Volvo","S80","Sedan",37150,19,27,"Sweden",5,3850,3,".",4
+"Volvo","V50","Wagon",29000,21,30,"Sweden",5,3524,".",".",3
+"Volvo","XC60","SUV",32900,19,25,"Sweden",5,4275,2,3,4
+"Volvo","XC70","Wagon",32550,19,25,"Sweden",5,4170,3,3,4
+"Volvo","XC90","SUV",38400,16,22,"Sweden",7,4950,".",4,5
+"smart","fortwo","Convertible",17690,33,41,"Italy",2,1852,4,3,1
+"smart","fortwo","Hatchback",12490,33,41,"Italy",2,1805,4,3,1
+
