@@ -18,7 +18,7 @@ RUN;
 *
 *  Language:      SAS, VERSION 9.4  
 *
-*  Input:         Various Mets datasets 
+*  Input:         Web scrapped NBA data using R 
 *
 *  Output:        RTF file 
 *                                                                    
